@@ -1,0 +1,27 @@
+/* src/webparts/imageGallery/ImageGalleryWebPart.module.scss */
+
+.imageGallery {
+  padding: 20px;
+}
+
+.filters {
+  margin-bottom: 20px;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  width: 200px;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}

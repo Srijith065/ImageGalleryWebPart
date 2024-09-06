@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "image-gallery",
+    "libraryId": "33c9a412-fee0-40ba-b430-b9b66389272f",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "image-gallery",
+    "solutionShortDescription": "image-gallery description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
